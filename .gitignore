@@ -1,9 +1,0 @@
-.idea
-node_modules
-npm-debug.log
-dist
-.vscode
-.nyc_output
-coverage
-.env
-sh.exe.stackdump
